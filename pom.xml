@@ -227,7 +227,8 @@
                 </plugins>
             </build>
         </profile>
-    </profiles><distributionManagement>
+    </profiles>
+         <distributionManagement>
     <snapshotRepository>
       <id>nexusrepo</id>
       <url>http://localhost:8081/nexus/content/repositories/snapshots/</url>
